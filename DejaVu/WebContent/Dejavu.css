@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+body {    
+    background-color: lightgray;
+    font-family: arial;
+    text-align: justify;
+}
+
+h1 {
+	background-color: black;
+	width: 100%;
+	color: white;
+	text-align: right;
+	padding: 15px;
+}
+
+p.fechas {
+	background-color: darkgray;
+	color: white;
+	font-weight: bold;
+	padding: 4px;
+	text-align: center;
+	font-size: 40px;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+p {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+hr {
+	width: 50%;
+}
+
+h2 {
+	margin-left: 25%;
+	margin-right: 25%;
+    border-bottom: white 5px solid;
+    font-size: 24px;
+}
+
+strong {
+    font-variant: small-caps;
+}
+
+span.rojo {
+    background-color: white;
+    color: red;
+    font-size: 18px;
+}
+
+span.azul{
+    color: blue;
+}
+
+q {
+    border-bottom: red 1px dashed;
+    font-size: 22px;
+}
